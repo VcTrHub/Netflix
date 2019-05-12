@@ -1,16 +1,19 @@
 from random import randint
 from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+from selenium.webdriver.support.select import Select
 import time
-dig1 = randint(0,9)
-dig2 = randint(0,9)
-dig3 = randint(0,9)
-dig4 = randint(0,9)
-dig5 = randint(0,9)
-dig6 = randint(0,9)
-dig7 = randint(0,9)
-dig8 = randint(0,9)
-dig9 = randint(0,9)
+dig1 = 1
+while (dig1 != 0):
+	dig1 = randint(0,9)
+	dig2 = randint(0,9)
+	dig3 = randint(0,9)
+	dig4 = randint(0,9)
+	dig5 = randint(0,9)
+	dig6 = randint(0,9)
+	dig7 = randint(0,9)
+	dig8 = randint(0,9)
+	dig9 = randint(0,9)
 
 total = (dig1 * 10) + (dig2 * 9) + (dig3 * 8 ) + (dig4 * 7) + (dig5 * 6) + (dig6 * 5 ) + (dig7 * 4) + (dig8 * 3) + (dig9 * 2 )
 divisao = total % 11
@@ -30,7 +33,21 @@ else:
 cpf = str(dig1) + str(dig2) + str(dig3) + "." + str(dig4) + str(dig5) + str(dig6) + "." + str(dig7) + str(dig8) + str(dig9) + "-" + str(dig10) + str(dig11)
 
 #print("CPF Gerado: %s " % cpf)
- 
+cdig1 = randint(0,9)
+cdig2 = randint(0,9)
+cdig3 = randint(0,9)
+cdig4 = randint(0,9)
+cdig5 = randint(0,9)
+cdig6 = randint(0,9)
+cdig7 = randint(0,9)
+cdig8 = randint(0,9)
+conta = str(cdig1) + str(cdig2) + str(cdig3) +  str(cdig4) + str(cdig5) + str(cdig6) + str(cdig7) + str(cdig8)
+adig1 = randint(0,9)
+adig2 = randint(0,9)
+adig3 = randint(0,9)
+adig4 = randint(0,9)
+agencia = str(adig1) + str(adig2) + str(adig3) +  str(adig4)
+dv = 0
  
 binary = FirefoxBinary("C:\\Program Files\\Mozilla Firefox\\firefox.exe")
 driver = webdriver.Firefox(firefox_binary=binary, executable_path=r"C:\\geckodriver.exe")
@@ -42,7 +59,7 @@ time.sleep(1)
 driver.find_element_by_css_selector("div.submitBtnContainer").click()
 
 campo_email = driver.find_element_by_id('id_email')
-campo_email.send_keys('54655575727@gmail.com')
+campo_email.send_keys('coun20199@vctr.com')
 time.sleep(2)
 campo_senha = driver.find_element_by_id('id_password')
 campo_senha.send_keys("senhadonet")
@@ -60,18 +77,26 @@ time.sleep(1)
 campo_cpf = driver.find_element_by_id('id_customerIdentification')
 campo_cpf.send_keys(cpf)
 time.sleep(1)
-""""
-
-select = driver.find_element_by_css_selector('nfSelectPlacement')
-select.select_by_value("001")
+select = Select(driver.find_element_by_name('accountType'))
+select.select_by_index(3)
 time.sleep(1)
-#campo_operacao = driver.find_element_by_css_selector('div.nfSelectPlacement')
-#campo_operacao.click()
-driver.find_element_by_css_selector()
-time.sleep(1)
-"""
 campo_agencia = driver.find_element_by_id('id_branchCode')
-campo_agencia.send_keys("432424242")
+campo_agencia.send_keys(agencia)
 time.sleep(1)
+
 campo_conta = driver.find_element_by_id('id_accountNumber')
-campo_conta.send_keys("4002")
+campo_conta.send_keys(conta)
+
+campo_dv = driver.find_element_by_id('id_accountNumberCheckDigits')
+campo_dv.send_keys(dv)
+time.sleep(1)
+driver.find_element_by_css_selector("div.submitBtnContainer").click()
+time.sleep(1)
+while(dv < 9):
+	dv = dv + 1
+	campo_dv.clear()
+	time.sleep(1)
+	campo_dv.send_keys(dv)
+	time.sleep(1)
+	driver.find_element_by_css_selector("div.submitBtnContainer").click()
+	time.sleep(1)
