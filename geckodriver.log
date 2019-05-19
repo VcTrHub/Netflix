@@ -1,0 +1,155 @@
+1558280694471	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox64\\firefox.exe" "-incognito" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.g8BmUnPY1NVp"
+1558280694989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558280694989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558280694989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558280699508	Marionette	INFO	Listening on port 49512
+1558280700164	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=4d8f424c-5ec4-4ce6-ab44-dfcaaafaddd6&pageid=2128, line 62: TypeError: td_1W.td_3d is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=f0025aa0-9788-4233-88f2-9d79124b4497&pageid=2128, line 90: TypeError: td_3Z is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=5768a1e3-f7a7-4b60-8f9f-e6f51a25f2d3&pageid=2128, line 103: TypeError: td_2g is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=0dc2cef2-05b4-4023-8404-ea6dca4a23a7&pageid=2128, line 56: TypeError: td_2z is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=be7cfb95-c7ba-404e-96ae-fff41aa37b11&pageid=2128, line 81: TypeError: td_1v is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=75a2f4a6-509c-44b7-abf9-d8b694138f38&pageid=2128, line 7: TypeError: td_1k.td_1j is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=7fc1d3fc-f33c-4b10-bf9b-cffd3e60b6df&pageid=2128, line 25: TypeError: td_1P is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=d829504a-985b-45ea-9ec0-322e73798aa2&pageid=2128, line 256: TypeError: td_2o is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=bd9542a4-bb9e-4499-8f35-42d15701bd41&pageid=2128, line 16: TypeError: td_2C is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 128, Chrome_ChildThread] WARNING: pipe error:[Parent 3852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3056, Chrome_ChildThrea1558280850432	Marionette	INFO	Stopped listening on port 49512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1032, Chrome_ChildT1558281218964	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox64\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.LU7J2ZSl1WHe"
+1558281219910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558281219911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558281219911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558281225287	Marionette	INFO	Listening on port 60011
+1558281225478	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=b9b7a089-805a-4412-a0cc-b6d6dd574be1&pageid=2128, line 249: TypeError: td_3h is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=9583cd82-b2d3-4367-a0ea-650502a15e87&pageid=2128, line 215: TypeError: td_0p is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=a66e913a-f85e-4395-94ff-8be920c9c182&pageid=2128, line 252: TypeError: td_3u is not a function
+[Parent 3284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558281263236	Marionette	INFO	Stopped listening on port 60011
+[GPU 2261558281740726	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox64\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.YIn9snmJT4pT"
+1558281741315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558281741315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558281741316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558281745632	Marionette	INFO	Listening on port 60114
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x33000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x33000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1558282557250	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox64\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.TnaWJYGRniAu"
+1558282557808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558282557809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558282557809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558282562387	Marionette	INFO	Listening on port 60357
+1558282562667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=39439029-253d-48ce-bfc4-221d452eceed&pageid=2128, line 211: ReferenceError: td_0K is not defined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=96cc31e3-ad7d-4255-8d11-82af7ec0a784&pageid=2128, line 9: TypeError: td_3y is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=17ed362f-b256-4f77-8107-e4afd965362f&pageid=2128, line 111: TypeError: td_0t is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=43f1a6f2-3c35-45e0-acdc-9671490ec18b&pageid=2128, line 7: TypeError: td_0d.td_1p is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=06cb1854-44bb-4189-bebc-627cfc15d1b6&pageid=2128, line 96: TypeError: td_3w is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=9fb6e855-a481-4ef8-9efa-eb0ff5a288d6&pageid=2128, line 7: TypeError: td_2C.td_3f is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=d44cc58d-53bc-40b7-86d9-33da03ebaf69&pageid=2128, line 7: TypeError: td_3J.td_3e is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=2dfb87ec-fe92-4357-a3f6-4fc82dedcb13&pageid=2128, line 7: TypeError: td_3u.td_2f is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=2dfb87ec-fe92-4357-a3f6-4fc82dedcb13&pageid=2128, line 183: TypeError: td_3u.tdz_15d95c121b764d67b9ce71092b922574 is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=e9bc6611-4245-4bd3-9b91-38878760a886&pageid=2128, line 7: TypeError: td_0b.td_0K is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=e0711ad5-3622-42fa-b820-decbe46e4994&pageid=2128, line 45: TypeError: td_0s is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=45d1c19c-027a-4b06-9cfe-45598d9c7f46&pageid=2128, line 156: TypeError: td_2Z is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=39439029-253d-48ce-bfc4-221d452eceed&pageid=2128, line 141: TypeError: td_WK is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=2064d0d7-ca96-40bd-b5c3-4dd846c8bd91&pageid=2128, line 15: TypeError: td_0X is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=8c2a8279-a014-415a-b639-39ee06d6e6ef&pageid=2128, line 8: TypeError: td_1X.td_2H is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=8c2a8279-a014-415a-b639-39ee06d6e6ef&pageid=2128, line 246: TypeError: td_1X.tdz_4d74310b80e5471b91b3a938f8619867 is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=2b234efb-e5c6-4036-983a-20277b0379ef&pageid=2128, line 7: TypeError: td_0A.td_1H is not a constructor
+[Parent 4708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4708, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 4708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium[Parent 4708, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1558282662597	Marionette	INFO	Stopped listening on port 60357
+[GPU 4140, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558283075636	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox64\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.7TcSG3HciFqU"
+1558283076359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558283076359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558283076359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558283081515	Marionette	INFO	Listening on port 60507
+1558283081646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=c897e11b-8342-424e-a93e-79eabad76b1d&pageid=2128, line 90: TypeError: td_2Q is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=c897e11b-8342-424e-a93e-79eabad76b1d&pageid=2128, line 144: TypeError: td_1a.td_2q is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=0d39cd4c-fd29-48fe-ad65-735ed3b9f50c&pageid=2128, line 66: TypeError: td_3Z is not a function
+[Parent 2444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ line 332
+[Child 4632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1558283200018	Marionette	INFO	Stopped listening on port 60507
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 4388, Chrome_ChildThread] WARNING: pipe error: 1558283763492	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.riJdABOMURnd"
+1558283770135	Marionette	INFO	Listening on port 60727
+1558283770628	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
