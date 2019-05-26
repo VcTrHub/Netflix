@@ -2,7 +2,7 @@ Generated File. Do not edit.
 
 [HEADER]
 Version|0.19t|$
-Arch|x86_64-msvc|$
+Arch|x86-msvc|$
 
 [PLUGINS]
 
@@ -11,7 +11,5 @@ C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect32.dll|$
 1551440870000|$
 C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect64.dll|$
 1551440870000|$
-C:\Program Files\Java\jre1.8.0_211\bin\plugin2\npjp2.dll|$
-1556413541822|$
-C:\Program Files\Java\jre1.8.0_211\bin\dtplugin\npdeployJava1.dll|$
-1556413541621|$
+C:\Program Files (x86)\Google\Update\1.3.34.11\npGoogleUpdate3.dll|$
+1557941467228|$

@@ -153,3 +153,300 @@ JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&sessio
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1558819354458	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.KQY3jPvPBo00"
+[Parent 6016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1558819383317	Marionette	INFO	Listening on port 61966
+1558819383975	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558819468596	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.kKvc43BJEOoL"
+1558819474569	Marionette	INFO	Listening on port 62152
+1558819474632	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4520, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1558819494483	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.chtCPAlQgRPi"
+1558819499763	Marionette	INFO	Listening on port 62243
+1558819500363	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 92ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 2296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2296, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4A0006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1558819672134	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.os7DFKrVQKRD"
+1558819677184	Marionette	INFO	Listening on port 62524
+1558819677858	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 3920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558819727765	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.AK3ci1PPH2VF"
+1558819733130	Marionette	INFO	Listening on port 62665
+1558819733186	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558819923371	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.PoQhIaY345ag"
+1558819928858	Marionette	INFO	Listening on port 62939
+1558819928897	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558876693826	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.XFztMevy19lq"
+1558876700797	Marionette	INFO	Listening on port 49591
+1558876701312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558876749046	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.Z20fAxvrw7CR"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1558876755122	Marionette	INFO	Listening on port 49647
+1558876755826	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558876791934	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.KL6cLYErHxpl"
+1558876797122	Marionette	INFO	Listening on port 49712
+1558876797556	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1558876897039	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.lwzgibFSNdHS"
+1558876903051	Marionette	INFO	Listening on port 49793
+1558876903249	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 4840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558876969463	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.Ppeh1HGxWhrC"
+1558876974204	Marionette	INFO	Listening on port 49881
+1558876974828	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 4360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558877001324	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.25jSwHO4QfbP"
+1558877006280	Marionette	INFO	Listening on port 49953
+1558877006842	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558877076383	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.UvzDxyL2WlOf"
+1558877081215	Marionette	INFO	Listening on port 50022
+1558877081835	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1558877180033	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.NvGpiyG3rRGt"
+1558877185061	Marionette	INFO	Listening on port 50101
+1558877185437	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+[Child 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 708, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558877267404	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.4gDmqyIRws2J"
+1558877272827	Marionette	INFO	Listening on port 50199
+1558877272909	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3252, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558877371568	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.6L3UWZhKD3F6"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1558877377737	Marionette	INFO	Listening on port 50279
+1558877378095	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1558877466452	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.WtjeLkd5IdkZ"
+1558877471796	Marionette	INFO	Listening on port 50354
+1558877471939	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4144, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1558877552100	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.YPKWyUyHtLgL"
+1558877557879	Marionette	INFO	Listening on port 50433
+1558877558252	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Child 2576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Child 4176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4176, Chrome_ChildThread] WARNING: pip*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error:1558877689869	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.wTFOIAE0XKQQ"
+1558877695316	Marionette	INFO	Listening on port 50580
+1558877695621	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.netflix.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5\nLine: 1875, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7\nLine: 1875, column: 0"
+[Parent 2172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4A0006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1558877948800	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.00PezerKuFM8"
+1558877955027	Marionette	INFO	Listening on port 50686
+1558877955336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=c56819c5-beda-4b95-9a61-6603b3722b34&pageid=2718, line 124: TypeError: td_3b is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=746deaae-d488-4393-bf5c-15d4721abdf6&pageid=2718, line 104: TypeError: td_2S is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=d4d0a413-734a-4a31-bbc6-2bee40bf53af&pageid=2718, line 201: TypeError: td_3c is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=c56819c5-beda-4b95-9a61-6603b3722b34&pageid=2718, line 10: TypeError: td_0i is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=c56819c5-beda-4b95-9a61-6603b3722b34&pageid=2718, line 10: TypeError: td_0i is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=1d1ab833-35ac-403b-ac09-2e5c8fa49ff6&pageid=2718, line 7: TypeError: td_3k.td_0Z is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=746deaae-d488-4393-bf5c-15d4721abdf6&pageid=2718, line 6: TypeError: td_W is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=ca9c0e04-a666-4260-b887-ad13da15f239&pageid=2718, line 170: TypeError: td_3s is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=e18af9e8-fde5-4463-8928-4a2345962537&pageid=2718, line 7: TypeError: td_0m.td_2J is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=ca9c0e04-a666-4260-b887-ad13da15f239&pageid=2718, line 164: TypeError: td_z is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=a051268d-c157-43b8-9ccd-a05491664ad4&pageid=2718, line 15: TypeError: td_1E is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=44f2c1ac-4a2f-41a8-a6a6-94d5aa6a2e69&pageid=2718, line 256: TypeError: td_0w.td_1M is not a function
+[Child 3344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2348, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 3508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
