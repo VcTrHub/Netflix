@@ -450,3 +450,586 @@ JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&sessio
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1558880739556	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.GF6dos1K9KWd"
+1558880744272	Marionette	INFO	Listening on port 51308
+1558880744723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=0da0633f-111c-44fd-94c6-3dad77c285e2&pageid=2718, line 103: TypeError: td_z is undefined
+[Child 3672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 2764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2816, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 4044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558880846010	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.PgGNwPPfgtb5"
+[Child 4776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2428, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4A0006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1558880859946	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.B5HVET2F5Ic5"
+1558880864984	Marionette	INFO	Listening on port 51420
+1558880865377	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4808, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 3404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558880896232	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.uxsTPt3ZgOc2"
+1558880901103	Marionette	INFO	Listening on port 51474
+1558880901557	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/VcTr/Desktop/Gerador%20de%20Contas/Firefox/App/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/VcTr/Desktop/Gerador%20de%20Contas/Firefox/App/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1558880901609	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 247: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 159}]'[JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 159}]' when calling method: [nsIHandlerService::store]
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558880945732	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.PFHVt2mToaJb"
+1558880950439	Marionette	INFO	Listening on port 51507
+1558880951147	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1090:3
+
+[Child 1260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1558880953067	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+1558880953108	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+[Child 1600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558881035714	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.xYEaAFLESB2v"
+1558881040563	Marionette	INFO	Listening on port 51545
+1558881041056	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 5108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558915416176	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.eCovYqP7dmqb"
+1558915429103	Marionette	INFO	Listening on port 56028
+1558915429662	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4872, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4A0006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1558915615562	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.qKToPh5TssFZ"
+1558915620784	Marionette	INFO	Listening on port 56171
+1558915621662	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1268, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1559269265098	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.pClZMBbZ3yej"
+1559269308764	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.BHRxtuad25gg"
+1559269309621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559269309621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559269309621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559269316643	Marionette	INFO	Listening on port 50382
+1559269317075	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 3840, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3044, Chrome_ChildThread] WARNING: pipe error: 109: fi1559269343123	Marionette	INFO	Stopped listening on port 50382
+[GPU 3908, Chrome_ChildThread] WARNIN
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x550005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1559269373806	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.4QDn55AnlYgP"
+1559269374298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559269374299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559269374299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559269379915	Marionette	INFO	Listening on port 50460
+1559269380410	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Child 3468, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 3468, Chrome_Ch[Child 468, ChromiledThre_ChildThreadad] W] WARNING: pipe error: 109: fiAle z:/task_1558039115/bRuild/NING: src/ipc/chromium/src/chrome/cpipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+ommon/ipc_channel_win.cc, line 341
+[Child 468, Chrome_ChildThread] WARNING: pipe error: 109: fil1559269418122	Marionette	INFO	Stopped listening on port 50460
+[GPU 4496, Chrome_ChildThread] WARNING: pipe 1559269421895	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.Dmt4WsmA09lk"
+1559269422563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559269422564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559269422564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559269427576	Marionette	INFO	Listening on port 50537
+1559269428083	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Child 3064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_[Child 3608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3188, Gecko_IOThread] WARNING: file z:/task_1558039115/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1559269493884	Marionette	INFO	Stopped listening on port 50537
+[GPU 4248, Chrome_ChildThread] WARN1559269500666	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.sD5CamQ0RxuB"
+1559269501447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559269501447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559269501447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 334)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:334:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:327:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:351:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:390:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:63:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:354:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:292:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:338:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:189:14\ncallback@resource://gre/modules/Timer.jsm:100:7\n"
+1559269510859	Marionette	INFO	Listening on port 50612
+1559269511092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=9a22d6e9-0f09-4312-bdcf-c2857649079f&pageid=2718, line 89: TypeError: td_z is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=d4c30e79-a4bd-4775-b8e1-2987ed085b31&pageid=2718, line 132: TypeError: td_0a is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=11920b07-70bc-4507-8d9e-ec9bb8eafee6&pageid=2718, line 17: TypeError: td_0K.td_1u is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=fb5d179e-7828-4cf8-8252-c6b6c325f4f5&pageid=2718, line 101: TypeError: td_2t is not a function
+[Parent 4080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 1972, Chrome_Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ld
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Thread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1972, Chrome_ChildThread] WARNING: pipe error: 109: fil[Parent 4080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1559269675724	Marionette	INFO	Stopped listening on port 50612
+[GPU 2832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_c
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hannel_win.cc, line 341
+1559269777316	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.IWNr6lWJkAsB"
+1559269778023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559269778023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559269778023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559269784113	Marionette	INFO	Listening on port 50791
+1559269784877	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=7f2f40b0-73f7-4ad0-9e55-8077cb9a5749&pageid=2718, line 59: TypeError: td_1x is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=48b821b9-c5c2-4a66-998a-7a11b314fe52&pageid=2718, line 7: TypeError: td_2u.td_3y is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=1c4c9cc6-976d-4d58-aafd-39c19d0d3784&pageid=2718, line 8: TypeError: td_2p.td_0i is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=5934fdd1-124f-4b09-88e4-5873127432de&pageid=2718, line 7: TypeError: td_1i.td_3E is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=48b821b9-c5c2-4a66-998a-7a11b314fe52&pageid=2718, line 85: TypeError: td_1m is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=1c4c9cc6-976d-4d58-aafd-39c19d0d3784&pageid=2718, line 69: TypeError: td_2p.tdz_35c6b5b375ae4306a07e6d5962c994ec is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=411d49b5-6848-490e-87f6-0176c2cd6fb3&pageid=2718, line 216: TypeError: td_C is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=f06615e0-f051-4927-845c-4e2b4578a8c1&pageid=2718, line 32: TypeError: td_3r is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=99f98118-71f2-47fc-8419-c37b644e3906&pageid=2718, line 228: TypeError: td_gH is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=f06615e0-f051-4927-845c-4e2b4578a8c1&pageid=2718, line 130: TypeError: td_1b.tdz_600ae2c9df4c43a0b2e9901b9e4f66a2 is undefined
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0014.337.051.js, line 1: unreachable code after return statement
+[Child 1480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1559270053167	Marionette	INFO	Stopped listening on port 50791
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3744, Chrome_ChildThread] WARNING: pipe error: 109: 1559270195790	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.7vU9vqO4GGYS"
+1559270196262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559270196262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559270196262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559270200401	Marionette	INFO	Listening on port 51076
+1559270201161	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=176a415b-d570-443c-9c78-b2b2c25c5282&pageid=2718, line 84: TypeError: td_2w is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=4bfea015-042c-410c-a491-82f9f902f1e3&pageid=2718, line 7: TypeError: td_2s.td_2u is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=73a20cb0-0aef-41df-a019-6e34e4a5cb1d&pageid=2718, line 122: TypeError: td_3U is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=4bfea015-042c-410c-a491-82f9f902f1e3&pageid=2718, line 249: TypeError: td_2s.tdz_2bf3d52b97004c96a41db63ce3699232 is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=b047ea92-ef0a-41f4-a2ad-fa5202a7a35f&pageid=2718, line 17: TypeError: td_3A.td_1r is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=5c07d31c-309a-45f1-8f13-7ede1d4b4783&pageid=2718, line 221: TypeError: td_2c is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=ceea70a4-89e4-494f-82e3-b3ab02b29efb&pageid=2718, line 7: TypeError: td_3i.td_3x is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=eed168c5-fe07-4d28-bb9b-34f93d8f91f0&pageid=2718, line 8: TypeError: td_2N.td_0g is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=4bfea015-042c-410c-a491-82f9f902f1e3&pageid=2718, line 231: TypeError: td_E is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=d1e5518c-e47d-4fdd-a12f-bd27979c7852&pageid=2718, line 33: TypeError: td_3q is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=d1f2e791-ae6c-4f9f-9115-d042efe24744&pageid=2718, line 6: TypeError: td_p is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=ce401ffd-cffa-4459-8402-4432f54a04e4&pageid=2718, line 9: TypeError: td_0l is not a function
+[Child 4260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 3024, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1559270325534	Marionette	INFO	Stopped listening on port 51076
+[GPU 2280
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, Chrome1559488313724	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.ySB3dNCXaqk6"
+1559488338011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559488338013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559488338013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 334)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:334:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:327:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:351:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:390:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:63:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:354:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:292:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:338:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:189:14\ncallback@resource://gre/modules/Timer.jsm:100:7\n"
+1559488367894	Marionette	INFO	Listening on port 50753
+1559488368585	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559433603642%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=0e18b590-3dfd-48d3-8fc4-826bfceb8141&pageid=2718, line 257: TypeError: td_3y is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=221b3f84-d762-4e18-83a0-6c6e89e1e910&pageid=2718, line 52: TypeError: td_0X.td_1x is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=7a8404e7-b0ab-4d2b-acfe-0145fc79adda&pageid=2718, line 181: TypeError: td_3c is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=937d817a-91d6-4457-a9ee-f47e28a35d49&pageid=2718, line 17: TypeError: td_3W.td_1b is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=0e18b590-3dfd-48d3-8fc4-826bfceb8141&pageid=2718, line 52: TypeError: td_b is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=03de2081-6701-4276-9bd4-e49735f9c148&pageid=2718, line 219: TypeError: td_3g is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=c22c8aa3-8fec-4528-89e4-752e9548bb97&pageid=2718, line 103: TypeError: td_1E is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=03de2081-6701-4276-9bd4-e49735f9c148&pageid=2718, line 246: TypeError: td_0O is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=820e79b6-90dc-42f0-a907-a95e6bd9ccf7&pageid=2718, line 7: TypeError: td_1L.td_0L is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=dd40d3a2-981b-4b06-aeaa-25cfeeb7417d&pageid=2718, line 7: TypeError: td_2F.td_0f is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=c720f82a-1a31-4c51-be63-5a4b87d515fc&pageid=2718, line 15: TypeError: td_1i is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=ed021d3b-8e3b-4d69-991c-eb3f762271ae&pageid=2718, line 86: TypeError: td_2F is not a function
+[Parent 3600, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chr[Child 1708, Chrome_ChildThread] WARNING: pipe error: 10o9: fimium/le z:src/c/task_1hrom5580391e/com15/buimon/ild/spc_chrc/ipc/annelchromi_winum/sr.cc, c/chroline me/com341
+mon/ipc_channel_win.
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 1044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1559488496146	Marionette	INFO	Stopped listening on port 50753
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1559488668207	mozrunner::runner	INFO	Running command: ".\\Firefox\\App\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VcTr\\AppData\\Local\\Temp\\rust_mozprofile.hRk0JRv3qINj"
+1559488680429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559488680429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559488680429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to connect GPU process
+[Parent 3616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1559488704046	Marionette	INFO	Listening on port 51003
+[Child 4832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1559488704428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=49126d73-8f20-48c1-89e3-c601013e5eab&pageid=2718, line 226: TypeError: td_G is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=b42343fc-5e95-46bd-8419-0212513883ed&pageid=2718, line 134: TypeError: td_0t is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=b42343fc-5e95-46bd-8419-0212513883ed&pageid=2718, line 171: TypeError: td_1E is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=4d402955-88e0-42a1-954e-54d9a12b6a7e&pageid=2718, line 227: TypeError: td_2H is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=2882d4ca-6a24-444e-bb05-ba9963aa43e8&pageid=2718, line 15: TypeError: td_1A is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=2882d4ca-6a24-444e-bb05-ba9963aa43e8&pageid=2718, line 231: TypeError: td_fp is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=f36a1f91-b76d-429a-a84a-5ce5e75c4808&pageid=2718, line 7: TypeError: td_3v.td_3I is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=bb8552cc-fad5-40b1-9c21-d5a6bf21ca5e&pageid=2718, line 26: TypeError: td_3s is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=d26dc3ea-9174-4f9f-8cf7-0832ae0b3c7b&pageid=2718, line 7: TypeError: td_0O.td_0h is not a constructor
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=a002a5b5-ad6e-4522-a410-63421cdc058a&pageid=2718, line 8: TypeError: td_1Q.td_0S is undefined
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=e2d8d7bc-1c02-4aaf-a580-11b5d6f6230d&pageid=2718, line 24: TypeError: td_3h is not a function
+JavaScript error: https://secured.netflix.com/fp/check.js?org_id=lg9m47ph&session_id=961ee84c-8f72-46b6-a36d-350d49c45f91&pageid=2718, line 26: TypeError: td_0F is not a function
+[Parent 3616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 3616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1[Child 5096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 3616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558039115/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2092, 1559488980609	Marionette	INFO	Stopped listening on port 51003

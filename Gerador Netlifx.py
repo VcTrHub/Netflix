@@ -46,7 +46,7 @@ driver.find_element_by_css_selector("div.submitBtnContainer").click()
 time.sleep(1)
 driver.get("https://www.netflix.com/signup/regform?input=email")
 time.sleep(1)
-campo_email = driver.find_element_by_id('id_userLoginId').send_keys(email)
+campo_email = driver.find_element_by_id('id_email').send_keys(email)
 time.sleep(1)
 campo_senha = driver.find_element_by_id('id_password').send_keys(senha)
 time.sleep(1)
@@ -73,7 +73,7 @@ time.sleep(1)
 driver.find_element_by_css_selector("div.submitBtnContainer").click()
 time.sleep(1)
 url = driver.current_url
-while(url != "https://www.netflix.com/simpleSetup/orderfinal"):
+while(url != "https://www.netflix.com/simpleSetup/orderfinal" and dv < 9):
 		dv = dv + 1
 		time.sleep(1)
 		campo_dv.clear()
@@ -83,5 +83,9 @@ while(url != "https://www.netflix.com/simpleSetup/orderfinal"):
 		driver.find_element_by_css_selector("div.submitBtnContainer").click()
 		time.sleep(1)
 		url = driver.current_url
-print(email)
-print(senha)
+if(dv > 9):
+	print("Falha Na Criação da Conta.Por favor verifique soluções de problemas ao lado.")
+else:
+	print(email)
+	print(senha)
+
